@@ -1,0 +1,58 @@
+h1{
+    background-color: chocolate;
+    text-align: center
+}
+
+.cucumber{
+    background-color:rgba(158, 111, 9, 0.849);
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+.sleep{
+    background-color: aqua;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.black{
+    background-color:blueviolet;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.meat{
+    background-color:brown;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.run{
+    background-color:darkgray;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.tail{
+    background-color:gold;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.mustache{
+    background-color:beige;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+.human{
+    background-color:greenyellow;
+    font-size: 20px;
+    margin: 0px 500px 0px 0px;
+}
+
+img{
+    border-bottom:lime 7px solid;
+    border-top:red 7px solid;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
